@@ -1,0 +1,17 @@
+node_modules
+*.log
+coverage
+dist
+**/.DS_Store
+lib
+.cache
+src/*.js
+test/*.js
+/*.js
+/*.map
+/*.d.ts
+*cache
+
+!/*.config.js
+!/*.conf.js
+!/benchmark.js

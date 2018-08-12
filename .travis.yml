@@ -1,0 +1,22 @@
+sudo: false
+
+language: node_js
+
+node_js:
+  - '6'
+  - '8'
+  - '10'
+
+env:
+- NODE_ENV=development
+
+git:
+  depth: 1
+
+cache:
+  yarn: true
+  directories:
+    - node_modules
+
+notifications:
+  email: false
