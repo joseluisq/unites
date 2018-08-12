@@ -1,7 +1,7 @@
 {
   "name": "unites",
   "description": "Fast utility for calculate SI and Binary unit prefixes (Units of information)",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "repository": "joseluisq/unites",
   "author": {
     "name": "José Luis Quintana",
